@@ -1,4 +1,31 @@
-# Validando-Forms
+# Projeto Validando Formulários
 
-Um projeto simples onde utilizei HTML, Tailwind(framework css) e JavaScript.
-Nesse projeto utilizei JavaScript, para validar os campos obrigatórios, nesse projeto o usuário não poderia deixar nenhum campo vazio,ao preencher todos campos aparece um aviso falando tudo preenchido.
+Este é um projeto simples de validação de formulários que utiliza HTML, Tailwind (framework CSS) e JavaScript. A validação é implementada em JavaScript para garantir que nenhum campo obrigatório seja deixado em branco. Ao preencher todos os campos obrigatórios, um aviso é exibido indicando que tudo foi preenchido corretamente.
+
+## Funcionalidades
+
+- Validação de formulários em tempo real.
+- Utiliza Tailwind para estilização moderna.
+- Feedback de aviso quando todos os campos obrigatórios são preenchidos.
+
+## Tecnologias Utilizadas
+
+- HTML
+- Tailwind CSS
+- JavaScript
+
+## Estrutura do Projeto
+
+- `src/`: Contém os arquivos fonte do projeto.
+  - `index.html`: Página principal com o formulário.
+  - `style.css`: Estilos adicionais para aprimorar a aparência.
+  - `script.js`: Lógica de validação do formulário em JavaScript.
+
+## Como Executar o Projeto
+
+1. Abra o arquivo `index.html` em um navegador da web.
+2. Preencha o formulário e observe a validação em tempo real.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
