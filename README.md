@@ -16,9 +16,7 @@ Este é um projeto simples de validação de formulários que utiliza HTML, Tail
 
 ## Estrutura do Projeto
 
-- `src/`: Contém os arquivos fonte do projeto.
   - `index.html`: Página principal com o formulário.
-  - `style.css`: Estilos adicionais para aprimorar a aparência.
   - `script.js`: Lógica de validação do formulário em JavaScript.
 
 ## Como Executar o Projeto
